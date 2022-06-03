@@ -5,6 +5,9 @@ Add any (compatible) bash script to PATH
 
 Python scripts don't run!!! This script has no ability to add python scripts to PATH. Instead, create a bash script containing "python3 /home/your-username/your-python-script-name.py" and add that to PATH.
 
+# Demo
+Linux: https://youtu.be/GJMwaYAYsow
+
 # Compatibility
 FreeBSD: Not tested
 
