@@ -1,5 +1,5 @@
 # OSMANiC PATHAnything Copyright 2022
-# Version 1.0.0
+# Version 1.1.0
 # This is free software, obtain a copy at https://github.com/OSMANiCTeam/PATHAnything
 # If you paid for this software, demand a refund
 
@@ -15,6 +15,12 @@ sudo mv $file_name /usr/bin/$command_name
 echo 
 echo Command Directory:
 which $command_name
-echo 
-echo Script finished! If you see a file or directory error above, the script did not get added successfully
-echo You can remove your script at any time by typing "sudo rm $command_name"
+echo
+clear
+FILE=/usr/bin/$command_name
+if [ -f "$FILE" ]; then
+    echo "Successfully added $command_name to PATH"
+else
+    echo "Failed to add $command_name to PATH"
+fi
+echo You can remove your script by typing "sudo rm $command_name"
