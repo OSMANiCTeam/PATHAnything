@@ -23,4 +23,4 @@ if [ -f "$FILE" ]; then
 else
     echo "Failed to add $command_name to PATH"
 fi
-echo You can remove your script by typing "sudo rm $command_name"
+echo You can remove your script by typing "sudo rm /usr/bin/$command_name"
