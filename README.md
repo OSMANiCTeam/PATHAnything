@@ -9,10 +9,10 @@ Python scripts don't run!!! This script has no ability to add python scripts to 
 Linux: https://youtu.be/GJMwaYAYsow
 
 # Compatibility
-FreeBSD: Not tested
+FreeBSD: Port Created, but not tested
 
-Linux: Works
+Linux: Port Created, Works
 
-macOS: Not tested
+macOS: Port Created, but not tested
 
-Windows: Not tested
+Windows: No bash support
