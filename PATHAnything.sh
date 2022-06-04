@@ -1,5 +1,5 @@
 # OSMANiC PATHAnything Copyright 2022
-# Version 1.1.0
+# Version 1.1.2
 # This is free software, obtain a copy at https://github.com/OSMANiCTeam/PATHAnything
 # If you paid for this software, demand a refund
 

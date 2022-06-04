@@ -1,8 +1,8 @@
 # OSMANiC PATHAnything for FreeBSD Copyright 2022
-# Version 1.0.0
+# Version 1.0.1
 # This is free software, obtain a copy at https://github.com/OSMANiCTeam/PATHAnything
 # If you paid for this software, demand a refund
-# As of Jun 4 2022, this software is untested, as we are unable to obtain FreeBSD for testing
+# As of Jun 4 2022, this software is untested, as we are unable to obtain FreeBSD for testing, more info at https://github.com/OSMANiCTeam/PATHAnything/discussions/1
 
 echo IF YOU ARE TRYING TO ADD THIS SCRIPT TO PATH, CREATE A COPY OF IT, USE THE COPY TO ADD THIS SCRIPT TO PATH, THEN DELETE THE COPY. MOVING A RUNNING INSTANCE CAN CAUSE PROBLEMS AND ISSUES!!!
 echo 
