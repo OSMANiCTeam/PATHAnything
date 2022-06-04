@@ -9,10 +9,10 @@ Python scripts don't run!!! This script has no ability to add python scripts to 
 Linux: https://youtu.be/GJMwaYAYsow
 
 # Compatibility
-FreeBSD: Port Created, but not tested
+FreeBSD: Port Created, but not tested [Download](https://github.com/OSMANiCTeam/PATHAnything/releases/download/1.1.1/PATHAnything-FreeBSD.sh)
 
-Linux: Port Created, Works
+Linux: Port Created, Works [Download](https://github.com/OSMANiCTeam/PATHAnything/releases/download/1.1.1/PATHAnything.sh)
 
-macOS: Port Created, but not tested
+macOS: Port Created, but not tested [Download](https://github.com/OSMANiCTeam/PATHAnything/releases/download/1.1.1/PATHAnything-macOS.sh)
 
-Windows: No bash support
+Windows: No Port
